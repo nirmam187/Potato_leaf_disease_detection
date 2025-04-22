@@ -1,0 +1,2 @@
+you need to download all the libraries as given in the main.py file . also when you run the main.py file .
+open the link given and then change the link by adding /docs at the end of the link.
